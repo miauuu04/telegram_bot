@@ -3,8 +3,8 @@ import asyncio
 from datetime import datetime
 from telegram import Bot
 
-TOKEN = "8788291764:AAGb402Y9rxFLQopMkCwXbJ_b-E-AZtyqsM"
-CHAT_ID = "8769397553"
+TOKEN = "xd:cxd-E-AZtyqsM"
+CHAT_ID = "xd"
 URL = "https://thebox.com.pe/products/zapatillas-para-hombre-veja-campo-cp0501537-m-wht.json"
 TALLA_OBJETIVO = "42"
 
